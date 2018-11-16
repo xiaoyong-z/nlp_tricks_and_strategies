@@ -1,0 +1,22 @@
+{
+    "location_traffic_convenience": "location_traffic_convenience_11.hdf5",
+    "location_distance_from_business_district": "location_distance_from_business_district_12.hdf5",
+    "location_easy_to_find": "location_easy_to_find_14.hdf5",
+    "service_wait_time": "service_wait_time_14.hdf5",
+    "service_waiters_attitude": "service_waiters_attitude_09.hdf5",
+    "service_parking_convenience": "service_parking_convenience_07.hdf5",
+    "service_serving_speed": "service_serving_speed_13.hdf5",
+    "price_level": "price_level_14.hdf5",
+    "price_cost_effective": "price_cost_effective_09.hdf5",
+    "price_discount": "price_discount_10.hdf5",
+    "environment_decoration": "environment_decoration_06.hdf5",
+    "environment_noise": "environment_noise_12.hdf5",
+    "environment_space": "environment_space_11.hdf5",
+    "environment_cleaness": "environment_cleaness_13.hdf5",
+    "dish_portion": "dish_portion_14.hdf5",
+    "dish_taste": "dish_taste_08.hdf5",
+    "dish_look": "dish_look_10.hdf5",
+    "dish_recommendation": "dish_recommendation_11.hdf5",
+    "others_overall_experience": "others_overall_experience_12.hdf5",
+    "others_willing_to_consume_again": "others_willing_to_consume_again_11.hdf5"
+}
